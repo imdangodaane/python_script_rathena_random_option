@@ -1,0 +1,8 @@
+OPT1_FEVER_MELEE: (
+	{
+		Rate: 600
+
+		VAR_ATTPOWER: [5, 30]
+		VAR_ATKPERCENT: [1, 5]
+	},
+)

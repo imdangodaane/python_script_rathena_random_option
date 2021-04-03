@@ -1,0 +1,12 @@
+OPT1_BOSS_MAGIC: (
+	{
+		Rate: 4500
+
+		VAR_STRAMOUNT: [1, 8]
+		VAR_AGIAMOUNT: [1, 8]
+		VAR_VITAMOUNT: [1, 8]
+		VAR_INTAMOUNT: [1, 8]
+		VAR_DEXAMOUNT: [1, 8]
+		VAR_LUKAMOUNT: [1, 8]
+	},
+)
